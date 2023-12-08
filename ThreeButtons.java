@@ -41,7 +41,5 @@ public class ThreeButtons {
                 System.out.println("Invalid Button!!!");
                 break;
         }
-
-
     }
 }
